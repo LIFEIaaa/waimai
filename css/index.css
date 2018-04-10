@@ -72,6 +72,8 @@ body{
     background: #eeeeee;
     outline: none;
     color: #666666;
+    margin-left: 15px;
+    line-height: 0.65rem;
 }
 .search-word{
     border:none;
